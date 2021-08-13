@@ -1,7 +1,7 @@
 FROM nginx:latest
 
 
-ADD https://gist.g /usr/share/nginx/html/
+ADD https://raw.githubusercontent.com/Palaniappan-Muthiah/index/main/index.html /usr/share/nginx/html/
 
 
 
